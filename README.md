@@ -6,7 +6,7 @@
 
 I have also studied and developed some projects in the field of artificial intelligence for games.
   - Artificial Neural Networks
-  - Reiforcement Learning
+  - Reinforcement Learning
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
