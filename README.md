@@ -1,4 +1,4 @@
-### I'm Gabriel Gomes👋
+### I'm Gabriel Gomes Pereira👋
 
 :computer: I'm Full-Stack Developer!
 
