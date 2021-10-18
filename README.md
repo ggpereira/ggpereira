@@ -4,9 +4,9 @@
 
 :books: I’m currently learning and focused in Mobile Development with React Native.
 
-
-
-
+I have also studied and developed some projects in the field of artificial intelligence for games.
+  - Artificial Neural Networks
+  - Reiforcement Learning
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
