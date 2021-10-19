@@ -4,7 +4,7 @@
 
 :books: I’m currently learning and focused in Mobile Development with React Native.
 
-I have also studied and developed some projects in the field of artificial intelligence for games.
+I have also studied and developed some projects in the field of artificial intelligence for games during my graduation.
   - Artificial Neural Networks
   - Reinforcement Learning
 
