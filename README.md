@@ -2,11 +2,7 @@
 
 :computer: I'm Full-Stack Developer!
 
-:books: I’m currently learning and focused in Mobile Development with React Native.
-
-I have also studied and developed some projects in the field of artificial intelligence for games during my graduation.
-  - Artificial Neural Networks
-  - Reinforcement Learning
+:books: I’m currently working with React Native.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
